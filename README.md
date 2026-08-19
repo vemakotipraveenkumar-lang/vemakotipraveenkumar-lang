@@ -175,34 +175,7 @@ I believe creativity and technology can complement each other to create better e
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.shion.dev/api?username=vemakotipraveenkumar-lang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vemakotipraveenkumar-lang&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vemakotipraveenkumar-lang&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vemakotipraveenkumar-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vemakotipraveenkumar-lang&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
