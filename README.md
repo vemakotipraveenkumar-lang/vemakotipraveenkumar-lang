@@ -1,94 +1,249 @@
-<h1 align="center">Hi, I'm Praveen 👋</h1>
-<h3 align="center">Cybersecurity & Software Engineering student building secure, practical tech</h3>
+# 👋 Hi, I'm Vemakoti Praveen Kumar
+
+### 🔐 Cybersecurity Enthusiast • 💻 Software Developer • 🧠 Problem Solver
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/praveen-kumar-vemakoti/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:vemakotipraveenkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/praveenvemakoti"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://www.instagram.com/vemakotipraveenkumar/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://in.pinterest.com/pvemakoti/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Cybersecurity+Student;Cybersecurity+Enthusiast;Software+Developer;Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vemakotipraveenkumar-lang&icon=0&color=grey&style=flat-square" alt="Profile views" />
+  <a href="https://github.com/vemakotipraveenkumar-lang">
+    <img src="https://img.shields.io/github/followers/vemakotipraveenkumar-lang?label=Followers&style=for-the-badge&logo=github&color=181717" />
+  </a>
+  <a href="https://github.com/vemakotipraveenkumar-lang">
+    <img src="https://komarev.com/ghpvc/?username=vemakotipraveenkumar-lang&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Vemakoti Praveen Kumar**, a **B.Tech Computer Science & Cyber Security** student at **Vignan's Institute of Information Technology**, passionate about building secure, practical, and impactful technology solutions.
+I'm **Vemakoti Praveen Kumar**, a **B.Tech Computer Science & Engineering (Cyber Security) student at Vignan's Institute of Information Technology**, passionate about cybersecurity, software development, system architecture, and solving real-world technical problems.
 
-- 🎓 Pursuing B.Tech in CS & Engineering (Cyber Security); previously completed a **Diploma in Computer Engineering**
-- 🔐 Gained hands-on exposure through a **Cyber Security Internship at Yendada Cyber Police Station**, working on network security protocols and practical cyber operations
-- 🔭 Currently building a **conceptual architecture for a rural online banking application** — focused on secure transactions, accessibility, and usability, including text-to-speech support
-- 🌱 Currently deepening my skills in: network security, practical cyber operations, operating systems, algorithms, database management, secure application design, and the intersection of **managerial economics & technology**
-- 🤝 Open to collaborating on cybersecurity projects, software development, competitive programming, secure web/app development, and open-source student initiatives
-- 💬 Ask me about algorithmic problem-solving, network security, OS internals, cybersecurity fundamentals, database management, or optimizing hardware for demanding workloads
-- ⚡ Goal: become a well-rounded cybersecurity & software engineering professional who blends technical depth with business awareness
+I enjoy understanding how systems work, identifying security challenges, and building solutions that are **secure, practical, scalable, and user-focused**.
+
+🎓 **Education**
+
+* B.Tech — Computer Science & Engineering (Cyber Security)
+* Diploma — Computer Engineering
+
+🔐 **Cybersecurity Experience**
+
+* Cyber Security Internship at **Yendada Cyber Police Station**
+* Exposure to network security protocols and practical cyber operations
+* Developing an interest in secure systems and real-world cyber defense
+
+🚀 **Current Project**
+
+### 🏦 Rural Digital Banking Architecture
+
+Currently developing a conceptual architecture for a **secure and accessible rural online banking application**.
+
+Key focus areas include:
+
+* 🔐 Secure financial transactions
+* 🌐 Reliable system architecture
+* ♿ Accessibility and inclusive design
+* 🔊 Text-to-speech support
+* 📱 Simple and user-friendly interfaces
+* 📈 Scalability and performance
+* 💰 Cost-effective technology decisions
 
 ---
 
-### 🛠️ Tech Stack
+## 🧠 What I'm Currently Learning
 
-**Languages**
+```text
+🔐 Advanced Network Security
+🛡️ Practical Cyber Operations
+💻 Operating Systems
+🧩 Algorithms & Problem Solving
+🗄️ Database Management
+🏗️ Secure Application Architecture
+📊 Technology & Managerial Economics
+```
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming
+
 <p>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Database & Tools**
+### 🔐 Cybersecurity & Core Areas
+
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Codespaces-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7" />
+<img src="https://img.shields.io/badge/Network%20Security-1F6FEB?style=for-the-badge&logo=protonvpn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Operating%20Systems-374151?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Algorithms-7C3AED?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
 </p>
 
-**Creative Tools**
+### 🗄️ Database
+
 <p>
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Management-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-**Core Areas:** Network Security · Operating Systems · Algorithms · Cybersecurity · Secure Application Design
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Codespaces-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+### 🎨 Creative Tools
+
+<p>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white"/>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Areas of Interest
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=vemakotipraveenkumar-lang&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vemakotipraveenkumar-lang&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+```text
+🔐 Cybersecurity
+   ├── Network Security
+   ├── Secure Applications
+   └── Cyber Operations
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vemakotipraveenkumar-lang&theme=radical&hide_border=true" />
-</p>
+💻 Software Engineering
+   ├── Application Development
+   ├── System Architecture
+   └── Performance Optimization
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vemakotipraveenkumar-lang&theme=radical&no-frame=true&margin-w=8&row=1" />
-</p>
+🧠 Computer Science
+   ├── Algorithms
+   ├── Operating Systems
+   └── Database Systems
 
-<details>
-<summary>🔝 Top Contributed Repo</summary>
-<br>
-<img src="https://github-contributor-stats.vercel.app/api?username=vemakotipraveenkumar-lang&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</details>
-
----
-
-### 📜 Certifications & Learning
-
-Computer Networking · CSS Essentials · HTML Essentials 1 · Introduction to CIP
-
-### 🎬 Beyond Technology
-
-When I step away from the keyboard, you'll find me evaluating long-distance motorcycles, brainstorming trailer cuts and cinematic concepts for short films like *"The Empty Seat,"* or experimenting with digital image enhancement and visual editing.
+📊 Technology & Business
+   ├── Cost Optimization
+   ├── Scalability
+   └── User-Centered Technology
+```
 
 ---
 
-<p align="center"><i>"Building secure solutions, solving meaningful problems, and continuously learning along the way."</i></p>
+## 🤝 Open to Collaboration
 
-<!-- Proudly enhanced from a profile originally built with GPRM (https://gprm.itsvg.in) -->
+I'm interested in collaborating on projects involving:
+
+* 🔐 Cybersecurity & Security Research
+* 💻 Software Development
+* 🌐 Secure Web Applications
+* 🧠 Competitive Programming
+* 🗄️ Database & System Projects
+* 🚀 Open-Source Projects
+* 🎓 Student Technology Initiatives
+
+If you have an interesting project or idea, feel free to reach out!
+
+---
+
+## 📜 Certifications & Learning
+
+* 🌐 Computer Networking
+* 🎨 CSS Essentials
+* 🌐 HTML Essentials 1
+* 🔐 Introduction to CIP
+
+> Always learning. Always experimenting. Always improving.
+
+---
+
+## 🎬 Beyond Code
+
+When I'm away from the terminal, I enjoy exploring:
+
+🏍️ **Long-distance motorcycles**
+🎬 **Cinematic storytelling & trailer concepts**
+📸 **Digital photography & image enhancement**
+🎨 **Creative visual editing**
+
+I believe creativity and technology can complement each other to create better experiences.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=vemakotipraveenkumar-lang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vemakotipraveenkumar-lang&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vemakotipraveenkumar-lang&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vemakotipraveenkumar-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vemakotipraveenkumar-lang&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:vemakotipraveenkumar@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/praveen-kumar-vemakoti/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/praveenvemakoti">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/vemakotipraveenkumar/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://in.pinterest.com/pvemakoti/">
+<img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Philosophy
+
+<p align="center">
+  <i>"Building secure solutions, solving meaningful problems, and continuously learning along the way."</i>
+</p>
+
+<p align="center">
+  <b>🔐 Secure by Design • 💻 Build with Purpose • 🚀 Keep Learning</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
+</p>
