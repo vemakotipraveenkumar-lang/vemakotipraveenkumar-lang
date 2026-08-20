@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vemakoti Praveen Kumar
 
-### 🔐 Cybersecurity Student • 💻 Software Developer • 🧠 Problem Solver • 🤝 Ready to Collaborate 
+### 🔐 Cybersecurity Enthusiast • 💻 Software Developer • 🧠 Problem Solver
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Cybersecurity+Student;Cybersecurity+Enthusiast;Software+Developer;Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -127,7 +127,11 @@ Key focus areas include:
    ├── Operating Systems
    └── Database Systems
 
-
+📊 Technology & Business
+   ├── Cost Optimization
+   ├── Scalability
+   └── User-Centered Technology
+```
 
 ---
 
@@ -171,7 +175,34 @@ I believe creativity and technology can complement each other to create better e
 
 ---
 
+# 📊 GitHub Analytics
 
+<p align="center">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=vemakotipraveenkumar-lang&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vemakotipraveenkumar-lang&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=vemakotipraveenkumar-lang&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vemakotipraveenkumar-lang&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vemakotipraveenkumar-lang&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -197,9 +228,6 @@ I believe creativity and technology can complement each other to create better e
 <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
 
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
-<img src="https://img.shields.io/badge/Naukri-Profile-0A66C2?style=for-the-badge&logo=naukri&logoColor=white"/>
-</a>
 </p>
 
 ---
