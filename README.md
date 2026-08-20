@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vemakoti Praveen Kumar
 
-### 🔐 Cybersecurity Enthusiast • 💻 Software Developer • 🧠 Problem Solver
+### 🔐 Cybersecurity Student • 💻 Software Developer • 🧠 Problem Solver • 🤝 Ready to Collaborate • 🎯 Critical Thinker
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Cybersecurity+Student;Cybersecurity+Enthusiast;Software+Developer;Problem+Solver;Always+Learning%2C+Always+Building" alt="Typing SVG" />
