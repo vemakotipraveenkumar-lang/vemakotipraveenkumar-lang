@@ -172,14 +172,6 @@ I believe creativity and technology can complement each other to create better e
 
 ---
 
-
-
----
-
-
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
