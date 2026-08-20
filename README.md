@@ -127,10 +127,7 @@ Key focus areas include:
    ├── Operating Systems
    └── Database Systems
 
-📊 Technology & Business
-   ├── Cost Optimization
-   ├── Scalability
-   └── User-Centered Technology
+
 ```
 
 ---
@@ -208,7 +205,7 @@ I believe creativity and technology can complement each other to create better e
 </a>
 
 <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
-<img src="https://img.shields.io/badge/Naukri-Profile-0A66C2?style=for-the-badge&logo=naukri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Naukri-0A66C2?style=for-the-badge&logo=naukri&logoColor=white"/>
 </a>
 
 </p>
