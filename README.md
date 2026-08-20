@@ -207,6 +207,10 @@ I believe creativity and technology can complement each other to create better e
 <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white"/>
 </a>
 
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+<img src="https://img.shields.io/badge/Naukri-Profile-0A66C2?style=for-the-badge&logo=naukri&logoColor=white"/>
+</a>
+
 </p>
 
 ---
