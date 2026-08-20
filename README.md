@@ -207,7 +207,7 @@ I believe creativity and technology can complement each other to create better e
 ## 💡 Philosophy
 
 <p align="center">
-  <i>"Building secure solutions, solving meaningful problems, and continuously learning along the way."</i>
+  <i>"“Securing ideas, solving challenges, and turning innovation into meaningful technology.” ⭐"</i>
 </p>
 
 <p align="center">
